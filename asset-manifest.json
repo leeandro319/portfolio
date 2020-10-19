@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2346fb2c.chunk.css",
+    "main.js": "/static/js/main.238a5cee.chunk.js",
+    "main.js.map": "/static/js/main.238a5cee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9050acbe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9050acbe.js.map",
+    "static/js/2.b0ae1d37.chunk.js": "/static/js/2.b0ae1d37.chunk.js",
+    "static/js/2.b0ae1d37.chunk.js.map": "/static/js/2.b0ae1d37.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85583adde8e879f000e8fa6205e0b509.js": "/precache-manifest.85583adde8e879f000e8fa6205e0b509.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2346fb2c.chunk.css.map": "/static/css/main.2346fb2c.chunk.css.map",
+    "static/js/2.b0ae1d37.chunk.js.LICENSE.txt": "/static/js/2.b0ae1d37.chunk.js.LICENSE.txt",
+    "static/media/foto.png": "/static/media/foto.924def97.png",
+    "static/media/iconDevPhp.png": "/static/media/iconDevPhp.acf5c70e.png",
+    "static/media/iconsQualidadesCss.png": "/static/media/iconsQualidadesCss.78e4bcf2.png",
+    "static/media/iconsQualidadesWp.png": "/static/media/iconsQualidadesWp.d639b737.png",
+    "static/media/propharmacos.png": "/static/media/propharmacos.4a6d3773.png",
+    "static/media/sheila.png": "/static/media/sheila.35702041.png",
+    "static/media/simplez.png": "/static/media/simplez.08179172.png",
+    "static/media/vitoria.png": "/static/media/vitoria.4b1e72d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9050acbe.js",
+    "static/js/2.b0ae1d37.chunk.js",
+    "static/css/main.2346fb2c.chunk.css",
+    "static/js/main.238a5cee.chunk.js"
+  ]
+}
